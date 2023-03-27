@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.frm {
+    width: 500px;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 0 orange;
+    padding: 20px;
+}
+
+.frm-control {
+    width: 100%;
+    padding: 7px;
+    border-radius: 4px;
+    float: left;
+    border: 1px solide #333;
+    outline: none;
+}
+
+label {
+    width: 100px;
+    float: left;
+}
+
+.btn-save {
+    margin: 10px;
+    float: right;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-save:hover {
+    background-color: yellow;
+}
+
+.img-loading {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    background-color: white;
+    background-image: url("loading-gif.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
