@@ -1,0 +1,50 @@
+[
+  {
+    "ind":"1",
+    "id":"Hoddie H0001",
+    "name":"RUSSELL FLORIDA TONAL PULLOVER HODDIE",
+    "photo":"https://cdn.shopify.com/s/files/1/2959/1636/products/hru-695hbm1blkps-blk-1.jpg?v=1673162303",
+    "price":75.00,
+    "detail":"Style this Florida Gators Hoodie by Russell Athletics. Its cotton/polyester blend makes the hoodie durable and soft, and features an embroidered Florida Gators script across the chest, drawstring hood, front pouch pocket, and ribbed cuffs and waist"
+  },
+  {
+    "ind":"1",
+    "id":"Hoddie H0002",
+    "name":"Platte Witte Vertegenwoordigen",
+    "photo":"https://ae01.alicdn.com/kf/Hb04046ecae5448f1977884abc25f70fec.jpg_640x640q90.jpg",
+    "price":23.00,
+    "detail":"Platte Witte Vertegenwoordigen Sweatshirts Mannen Vrouwen 1:1 Hoge Kwaliteit Geborduurde Overhead Vertegenwoordigen Sweatshirts Zware Gewicht Hoodie"
+  },
+  {
+    "ind":"1",
+    "id":"Hoddie H0003",
+    "name":"Unisex Hoddie - Hutch + Waldo",
+    "photo":"https://images.squarespace-cdn.com/content/v1/5ac3793cf407b411e9652400/1677861816693-I47ROR5DNRB2P4QNVCI6/1ebf606e33f3ad907cf8e1a9d611520a?format=2500w",
+    "price":30.00,
+    "detail":"This unisex heavy blend hooded sweatshirt is relaxation itself. Made with a thick blend of cotton and polyester, it feels plush, soft and warm, a perfect choice for any cold day. In the front, the spacious kangaroo pocket adds daily practicality while the hood's drawstring is the same color as the base sweater for extra style points."
+  },
+  {
+    "ind":"2",
+    "id":"Pants P0001",
+    "name":"Cargo Pants Women Chic BF Style",
+    "photo":"https://ae01.alicdn.com/kf/S6f7d4b572a0549c3a6ab64827fa78604P/Cargo-Pants-Women-Chic-BF-Style-Boyfriend-All-match-Casual-Teens-Streetwear-Clothing-Spring-Fall-Ladies.jpg",
+    "price":9.98,
+    "detail":"Cargo Broek Vrouwen Chic Bf Stijl Vriendje All-Match Casual Tieners Streetwear Kleding Lente Herfst Dames Broek Pantalones Cozy"
+  },
+  {
+    "ind":"2",
+    "id":"Pants P0002",
+    "name":"Women Blue Regular Fit High-Rise Clean Look Paper Bag Waist Jeans",
+    "photo":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/12221990/2020/8/12/f3b06a21-4591-41c3-b4f5-6c3f146211e71597234107705-SASSAFRAS-Women-Blue-Regular-Fit-Solid-Regular-Trousers-9515-1.jpg",
+    "price":23.00,
+    "detail":"Cargo Broek Vrouwen Chic Bf Stijl Vriendje All-Match Casual Tieners Streetwear Kleding Lente Herfst Dames Broek Pantalones Cozy"
+  },
+  {
+    "ind":"2",
+    "id":"Pants P0003",
+    "name":"Women Straight Fit Rip Non Stretchable Denim Jeans, Washed Blue",
+    "photo":"https://b.bflcdn.com/t_pm/f_auto,q_auto/products/22/9/1200051145715_BTM_1.JPG",
+    "price":39.00,
+    "detail":"Cargo Broek Vrouwen Chic Bf Stijl Vriendje All-Match Casual Tieners Streetwear Kleding Lente Herfst Dames Broek Pantalones Cozy"
+  }
+  ]
