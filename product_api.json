@@ -1,5 +1,5 @@
 [
-  "ind" = [{
+  "ind" : [{
     "ind":"1",
     "id":"Hoddie H0001",
     "name":"RUSSELL FLORIDA TONAL PULLOVER HODDIE",
@@ -23,7 +23,7 @@
     "price":30.00,
     "detail":"This unisex heavy blend hooded sweatshirt is relaxation itself. Made with a thick blend of cotton and polyester, it feels plush, soft and warm, a perfect choice for any cold day. In the front, the spacious kangaroo pocket adds daily practicality while the hood's drawstring is the same color as the base sweater for extra style points."
   }],
-  "ind"=[
+  "ind":[
   {
     "ind":"2",
     "id":"Pants P0001",
